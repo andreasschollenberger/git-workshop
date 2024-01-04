@@ -15,3 +15,7 @@ body{
 .text{
     margin: 15px;
 }
+
+h1{
+    color: blue;
+}
