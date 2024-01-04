@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+    
+}
+
+.main-contaner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    max-width: 960px;
+    background-color: white;
+}
+.text{
+    margin: 15px;
+}
